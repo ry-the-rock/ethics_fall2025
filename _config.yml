@@ -13,7 +13,7 @@ title                    : "Computing Ethics"
 title_separator          : "-"
 name                     : &name 
 description              : &description 
-url                      : https://ry-the-rock.github.io/ethics_fall2025 #  Use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://ry-the-rock.github.io/ethics_fall2025" #  Use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ry-the-rock/ethics_fall2025" 
 
