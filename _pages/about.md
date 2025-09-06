@@ -20,5 +20,3 @@ During the summer of 2025, I participated in St. Olaf's Collaborative Undergradu
 Personal Life
 ---
 I thoroughly enjoy engaging in music, whether that be through playing the drums for Folkish (a campus band that I'm in) or just listening to songs on my phone. I also love animals, and I dream of one day owning many cats.
-
-[comment]: <> ( For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.)
