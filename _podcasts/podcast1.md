@@ -1,9 +1,9 @@
 ---
-title: "Podcast 1"
+title: "Gone Phishing Episode 1"
 collection: podcasts
-permalink: /podcasts/podcast1
-excerpt: "Let's chat about ethical frameworks in X,Y,Z."
-date: 2009-10-01
-audio: ethics_fall2025/files/strings.mp3
+permalink: /podcasts/gone_phishing_episode_1
+excerpt: "A podcast about ethical dilemmas in the world of computer science."
+date: 2025-09-26
+audio: ethics_fall2025/files/Gone_Phishing_Episode_1.mp3
 ---
-Details about the podcast.
+Let's play a game with ethical frameworks and nostalgic childhood characters!
