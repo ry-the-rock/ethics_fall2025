@@ -4,7 +4,7 @@ collection: podcasts
 permalink: /podcasts/gone_phishing_episode_2
 excerpt: "Statistics vs. AI Chatbots: Who Will Win?"
 date: 2025-10-12
-audio: /usr/src/app/files/Gone_Phishing_Episode_2.mp3
+audio: ethics_fall2025/files/Gone_Phishing_Episode_2.mp3
 ---
 For this week's podcast, we tested AI chatbots' citation abilities. After coming up with a detailed prompt by conversing with ChatGPT, we tasked Microsoft Copilot and Google Gemini with responding to it. How factually accurate was the data? Listen to find out!
 
